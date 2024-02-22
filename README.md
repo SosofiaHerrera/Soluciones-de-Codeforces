@@ -8,8 +8,7 @@ Este repositorio contiene mis soluciones de problemas de Codeforces.
 
 <div align="center">
 
-## Index 
-#### Sorted by Problem ID 
+## Registro 
 |  Index  | ID | Nombre | Problema | Solución |
 | :-----: |  :--------: | :----------: | :------: | :------: |
 | 1 | 381 A | Sereja and Dima | [Problema](http://codeforces.com/contest/381/problem/A) | [Solución](https://github.com/SosofiaHerrera/Soluciones-de-Codeforces/blob/main/381A.cpp)
